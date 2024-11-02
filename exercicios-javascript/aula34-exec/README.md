@@ -118,7 +118,7 @@ const pessoa = {
 - Separação de responsabilidades (HTML, CSS, JS)
 
 ## Autor
-[Seu Nome]
+Breno Levy Carneiro da Silva
 
 ## Versão
 1.0.0
